@@ -1,0 +1,27 @@
+//@import url(https://fonts.googleapis.com/css?family=Varela+Round|Open+Sans:400,300,600,400italic,700);
+
+.section-heading {
+    padding-bottom: 5%;
+}
+
+#stadium {
+    padding-top: 3%;
+}
+#stadium h3 {
+    padding-bottom: 3%;
+}
+#stdm td{
+    padding-top: 2%;
+    padding-left: 15%;
+    padding-bottom: 2%;
+}
+#stdm{
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 8%;
+    padding-bottom: 10%;
+}
+img {
+    width: 100%;
+    height: auto;
+}

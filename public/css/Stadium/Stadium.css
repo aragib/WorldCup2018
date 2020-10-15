@@ -1,0 +1,85 @@
+
+/*body {
+  background: #fff none repeat scroll 0 0;
+  color: #444;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  text-align: left;
+  overflow-x: hidden;
+  line-height: 22px;
+}*/
+.float-right{
+  float: right;
+}
+.left{
+  float: left;}
+.section-heading {
+    padding-bottom: 5%;
+}
+
+.single-awesome-project {
+  overflow: hidden;
+  margin-bottom: 30px;
+}
+
+.awesome-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.awesome-img>img {
+  display: block;
+  position: relative;
+  max-width: 100%;
+  height: auto;
+}
+
+imgcaption h4 {text-align: center;}
+
+.single-awesome-project:hover .add-actions {
+  opacity: .8;
+  bottom: 0;
+}
+
+.add-actions {
+  background: rgba(0, 0, 0, 0.6) none repeat scroll 0 0;
+  bottom: 30px;
+  display: block;
+  height: 100%;
+  left: 0;
+  opacity: 0;
+  overflow: hidden;
+  padding: 10px 15px;
+  position: absolute;
+  transition: all 0.4s ease 0s;
+  width: 100%;
+}
+
+.project-dec {
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+.project-dec a {
+  display: block;
+  height: 100%;
+  width: 100%;
+    text-decoration: none;
+}
+
+.project-dec h4 {
+  margin-bottom: 5px;
+  color: #ddd;
+  font-family: cursive;
+  margin-top: -45px;
+  padding-top: 50%;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.project-dec span {
+  color: #ddd;
+}
